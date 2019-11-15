@@ -1,0 +1,47 @@
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\bin\Debug\soferski servis.exe.config
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\bin\Debug\soferski servis.exe
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\bin\Debug\soferski servis.pdb
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski servis.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski_servis.Form1.resources
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski_servis.Properties.Resources.resources
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski servis.csproj.GenerateResource.cache
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski servis.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski servis.exe
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski servis.pdb
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\bin\Debug\MySql.Data.dll
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\bin\Debug\MySql.Data.xml
+C:\Users\Filip\Documents\databases\soferski servis\soferski servis\obj\Debug\soferski servis.csproj.CopyComplete
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\bin\Debug\soferski servis.exe.config
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.exe
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.pdb
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csprojResolveAssemblyReference.cache
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski_servis.Form1.resources
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski_servis.Properties.Resources.resources
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csproj.GenerateResource.Cache
+C:\Users\Schmoopy\Desktop\chauffeurDB-master\soferski servis\obj\Debug\gamingcenter.Form1.resources
+E:\chauffeurDB-master\soferski servis\obj\Debug\gamingcenter.Form1.resources
+E:\chauffeurDB-master\soferski servis\obj\Debug\soferski_servis.Properties.Resources.resources
+E:\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csproj.GenerateResource.cache
+E:\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csproj.CoreCompileInputs.cache
+E:\chauffeurDB-master\soferski servis\bin\Debug\soferski servis.exe.config
+E:\chauffeurDB-master\soferski servis\bin\Debug\soferski servis.exe
+E:\chauffeurDB-master\soferski servis\bin\Debug\soferski servis.pdb
+E:\chauffeurDB-master\soferski servis\bin\Debug\MySql.Data.dll
+E:\chauffeurDB-master\soferski servis\bin\Debug\MySql.Data.xml
+E:\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csprojResolveAssemblyReference.cache
+E:\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csproj.CopyComplete
+E:\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.exe
+E:\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.pdb
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\bin\Debug\soferski servis.exe.config
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\bin\Debug\soferski servis.exe
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\bin\Debug\soferski servis.pdb
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\bin\Debug\MySql.Data.dll
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\bin\Debug\MySql.Data.xml
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csprojResolveAssemblyReference.cache
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\gamingcenter.Form1.resources
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski_servis.Properties.Resources.resources
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csproj.GenerateResource.cache
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csproj.CoreCompileInputs.cache
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.csproj.CopyComplete
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.exe
+C:\Users\Gojkas\Desktop\chauffeurDB-master\soferski servis\obj\Debug\soferski servis.pdb

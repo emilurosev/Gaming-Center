@@ -1,0 +1,37 @@
+1.Ispisuje imena i prezimena prodavaca koji imaju najvise neisporucenih narudzbina i menadzera njihovih poslovnica kako bi se osmislio nacin za brzu isporuku narudzbina 
+
+2.Ispisuje imena i prezimena kupaca koji imaju 3 ili vise neisporucenih narudzbina da bi se prvo njihove narudzbine isporucile(posle onih narudzbina koje su narucene pre vise od dve nedelje)
+
+3.Ispisuje koliko je koji proizvod narucivan, kako bi poslovodja imao bolji uvid u promet proizvoda
+
+4.Ispisuje racunare(najvise narucivan proizvod) kojih nema vise na lageru kako bi menadzer narucio nove 
+
+5.Ispisuje ime menadzera ciji prodavci imaju najmanje narudzbina kako bi menadzer smislio strategiju za bolje promovisanje proizvoda na internetu
+
+6.Ispisuje nazive dve poslovnice sa najvise narudzbina kako bi se njihova online prodaja eventualno prosirila i dobila na efikasnosti
+
+7.Ispisuje koje poslovnice ocekuju manje od 500.000 dinara prihoda od neisporucenih narudzbina kako bi menadzer mogao da realnije raspodeli sredstva u tim poslovnicama
+
+8.Ispisuje nazive 3 igrice kojih je ostalo najvise na lageru kako bi menadzer uzeo u obzir da smanji cenu da bi ih rasprodao i da ih ne narucuje vise
+
+9.Ispisuje kolika je prosecna ocekivana zarada od neisporucenih narudzbina i da li ima dovoljno sredstava od istih za isplatu svog osoblja za 2019. godinu. Ovo je bitno kako bi vlasnik znao kako da raspolaze sa novcem, koliko ima prostora da narucuje nove proizvode i da siri poslovnice
+
+10.Ispisuje da li ima i koje su narudzbine narucene pre vise od dve nedelje, kako bi se prvo one poslale da se kupci ne bi zalili na sporu uslugu
+
+11.Ispisuje grad iz kojeg ima najvise narudzbina, a u tom gradu ne postoji poslovnica. Ovo je bitno kako bi se kroz odredjeno vreme otvorila poslovnica i u tom gradu
+
+12.Ispisuje iz koje drzave u regionu(osim Srbije) ima najvise naruzbina. Ovo je bitno kako bi se pokusalo uvesti smanjenje carinske takse sa datom drzavom
+
+13.Ispisuje koja poslovnica ocekuje najveci prihod od neisporucenih narudzbina kako bi se od njenog prihoda moglo pomoci poslovnicama sa manje od 500.000 dinara ocekivanog prihoda
+
+14.Ispisuje iz kog grada ce kupci najvise potrositi na narudzbine da bi se platilo drustvenim mrezama da izlazi vise reklama za nas poslovni sistem u datom gradu
+
+15.Ispisuje imena i prezimena tri kupca koja imaju najvrednije narudzbine konzola i nazivi poslovnica iz kojih su proizvodi naruceni kako bi menadzeri tih poslovnica poslali e-mail pozivnicu sa ucesce u anketi proizvodjaca konzola  
+
+16.Ispisuje imena, prezimena i email kupaca u bazi koji nemaju nijednu aktivnu narudzbinu a potrosili su vise od 50.000 dinara do sada na nase proizvode kako bi se poslala email poruka kao podsetnik na nas poslovni sistem
+
+17.Ispisuje 3 najvise narucivana zanra muzike kako bi se stekao bolji uvid u koji zanr muzike je najatraktivniji 
+
+18.Ispisuje nove cene narucenih filmova sa popustom od 10%, ova odluka je doneta jer se u jednom od prethodnih upita pokazalo da je film najslabije narucivan proizvod u poslednje vreme i smanjujemo cenu kako bi se eventualno vise filmova porucivalo
+
+

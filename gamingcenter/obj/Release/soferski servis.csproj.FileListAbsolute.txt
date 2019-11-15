@@ -1,0 +1,4 @@
+E:\chauffeurDB-master\soferski servis\obj\Release\gamingcenter.Form1.resources
+E:\chauffeurDB-master\soferski servis\obj\Release\soferski_servis.Properties.Resources.resources
+E:\chauffeurDB-master\soferski servis\obj\Release\soferski servis.csproj.GenerateResource.cache
+E:\chauffeurDB-master\soferski servis\obj\Release\soferski servis.csproj.CoreCompileInputs.cache
